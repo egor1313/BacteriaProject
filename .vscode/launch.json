@@ -1,0 +1,16 @@
+{
+    "name": "Python: Debug Console",
+    "type": "python",
+    "request": "launch",
+    "program": "${file}",
+    "console": "internalConsole",
+    "configurations": [
+        {
+            "name": "Python: Debug Console",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
