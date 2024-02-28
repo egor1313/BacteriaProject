@@ -1,6 +1,8 @@
 # BacteriaProject
 Это мой школьный проект по искусственной жизни. Реализовал программу я в среде Processing 4.
+
 Вот скриншоты:
+
 ![Screenshot_1](https://github.com/egor1313/BacteriaProject/assets/61326295/ece921ba-cdb6-4cee-bded-f5647d14fec9)
 ![Screenshot_7](https://github.com/egor1313/BacteriaProject/assets/61326295/c60c1513-980b-4701-ab64-d5e777be35b9)
 ![Screenshot_5](https://github.com/egor1313/BacteriaProject/assets/61326295/eb9d7630-cfc5-4bc1-87b5-2093c422ff25)
