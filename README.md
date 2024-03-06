@@ -3,6 +3,8 @@
 
 Вот скриншоты:
 
+![0000000000000000000000000743](https://github.com/egor1313/BacteriaProject/assets/61326295/22db1125-c082-429b-9ba2-4edc4c90faaf)
+
 ![Screenshot_1](https://github.com/egor1313/BacteriaProject/assets/61326295/ece921ba-cdb6-4cee-bded-f5647d14fec9)
 
 ![Screenshot_7](https://github.com/egor1313/BacteriaProject/assets/61326295/06d57d0d-b5a4-44db-be4e-e44603b1d4eb)
